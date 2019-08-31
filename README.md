@@ -1,4 +1,4 @@
- You can see the app running here: https://got007.herokuapp.com/
+ # You can see the app running here: https://got-qgdatqd75.now.sh/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
