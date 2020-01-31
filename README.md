@@ -11,6 +11,12 @@
 
 ![alt text](https://imgbbb.com/images/2019/09/04/Capture2e3bfb901195267f.jpg)
 
+
+## Tools utilized
+```
+-React.js
+-SASS
+```
 ## How run my app
 
 ```
@@ -19,8 +25,3 @@
 3 - Run yarn start.
 4 - Enjoy.
 ```
-## Tools utilized
-````
--React.js
--SASS
-
