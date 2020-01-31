@@ -12,7 +12,7 @@
 ![alt text](https://imgbbb.com/images/2019/09/04/Capture2e3bfb901195267f.jpg)
 
 
-## Tools utilized
+## Tools used
 ```
 -React.js
 -SASS
