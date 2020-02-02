@@ -1,6 +1,6 @@
 ## Game of thrones
 
-``` Just training the SASS skills. ```
+``` Just training SASS skills. ```
 
 ## You can see the app running here:
  
