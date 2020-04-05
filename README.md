@@ -1,16 +1,12 @@
-## Game of thrones
-
-``` Just training SASS skills.```
+# Game of thrones
 
 ## You can see the app running here:
  
  https://got-qgdatqd75.now.sh/
 
-
 ## Preview
 
-![alt text](https://imgbbb.com/images/2019/09/04/Capture2e3bfb901195267f.jpg)
-
+![Optional Text](/src/assets/daenerys.PNG)
 
 ## Tools utilized
 ```
