@@ -8,7 +8,7 @@
 
 ![Optional Text](/src/assets/daenerys.PNG)
 
-## Tools utilized
+## Tools used
 ```
 -React.js
 -SASS
