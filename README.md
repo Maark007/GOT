@@ -2,13 +2,13 @@
 
 ## You can see the app running here:
  
- https://got-qgdatqd75.now.sh/
+ https://gameofthrones2732.netlify.com/
 
 ## Preview
 
 ![Optional Text](/src/assets/daenerys.PNG)
 
-## Tools utilized
+## Tools used
 ```
 -React.js
 -SASS
