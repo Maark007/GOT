@@ -5,12 +5,18 @@ body {
   margin: 0;
 }
 
+@font-face {
+  font-family: Dragon;
+  src: url(Dragon.ttf);
+}
+
 .text1Title {
   margin: 30px;
-  font-size: 40px;
+  font-size: 30px;
+  font-style: italic;
   color: white;
   float: left;
-  font-family: 'Oswald', sans-serif;
+  font-family: Dragon;
   @media screen and (max-width: 900px) {
     font-size: 20px;
   }

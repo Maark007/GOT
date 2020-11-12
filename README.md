@@ -6,7 +6,7 @@
 
 ## Preview
 
-![Optional Text](/src/assets/daenerys.PNG)
+![Optional Text](/src/assets/bg.jpg)
 
 ## Tools used
 ```
